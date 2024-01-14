@@ -10,5 +10,9 @@ display.textContent = name;
 
 // missing function?
 
+function simpleMath(x, y) {
+  return x + y;
+}
+
 // you should see 5 in the output of your console
 console.log(simpleMath(2, 3));
